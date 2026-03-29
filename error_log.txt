@@ -1,6 +1,0 @@
-[2026-03-29 13:07:45.882401] ERROR: ConnectionError - HTTPSConnectionPool(host='this-url-does-not-exist-xyz.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='this-url-does-not-exist-xyz.com', port=443): Failed to resolve 'this-url-does-not-exist-xyz.com' ([Errno 11001] getaddrinfo failed)"))
-[2026-03-29 13:08:08.579594] ERROR: ConnectionError - HTTPSConnectionPool(host='this-url-does-not-exist-xyz.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='this-url-does-not-exist-xyz.com', port=443): Failed to resolve 'this-url-does-not-exist-xyz.com' ([Errno 11001] getaddrinfo failed)"))
-[2026-03-29 13:08:09.054724] ERROR: HTTP Error 404 - Product not found
-[2026-03-29 13:08:42.465736] ERROR: ConnectionError - HTTPSConnectionPool(host='this-url-does-not-exist-xyz.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='this-url-does-not-exist-xyz.com', port=443): Failed to resolve 'this-url-does-not-exist-xyz.com' ([Errno 11001] getaddrinfo failed)"))
-[2026-03-29 13:08:42.972552] ERROR: HTTP Error 404 - Product not found
-[2026-03-29 13:08:43.018057] ERROR: Timeout - HTTPSConnectionPool(host='dummyjson.com', port=443): Read timed out. (read timeout=0.001)
